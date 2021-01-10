@@ -6,7 +6,7 @@ Coding a Better World!
 ___ 
 > 
 >>   ### Software Enginner
->>   ### Front-end developer specialist
+>>   ### Front-end developer
 >>   ### Fullstack developer
 ___
 
