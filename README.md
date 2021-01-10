@@ -4,7 +4,7 @@
 ___ 
 
 
-::: warning
+:::
 coding a better world together!
 :::
 
