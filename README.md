@@ -11,7 +11,5 @@ ___
 
 
 > 
-## Software Engineer
-## Front-end Developer
-## Fullstack Developer
+## Software Engineer | Front-end Developer | Fullstack Developer
 ___
