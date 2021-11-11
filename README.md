@@ -18,7 +18,7 @@
 
 ## About me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressaalm&hide=javascript,html)](https://github.com/andressaalm)
+
 
 - Thanks for visiting.
 
