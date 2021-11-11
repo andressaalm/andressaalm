@@ -18,6 +18,7 @@
 
 ## About me
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
 
 - Thanks for visiting.
