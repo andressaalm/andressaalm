@@ -18,10 +18,7 @@
 
 ## About me
 
-![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressaalm&hide=javascript,html)](https://github.com/andressaalm)
 
 - Thanks for visiting.
 
-- Enjoy it!! o/
-
-----------------------------------------------------------------------------------
